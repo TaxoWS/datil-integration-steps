@@ -148,6 +148,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the Ecuadorian developer community**
 
-[![Dátil](https://datil.dev/images/logo.svg)](https://datil.dev)
+[![Taxo](https://app.taxo.ws/logo-dark.svg)](https://datil.dev)
 
 </div>
