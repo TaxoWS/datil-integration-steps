@@ -138,12 +138,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **API Status**: [https://link.datil.co](https://link.datil.co)
 - **Issues**: [GitHub Issues](https://github.com/your-username/datil-integration/issues)
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/datil-integration&type=Date)](https://star-history.com/#your-username/datil-integration&Date)
-
----
-
 <div align="center">
 
 **Made with ❤️ for the Ecuadorian developer community**
