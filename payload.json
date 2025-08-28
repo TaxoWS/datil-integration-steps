@@ -1,0 +1,76 @@
+{
+  "ambiente": 1,
+  "tipo_emision": 1,
+  "secuencial": 43501,
+  "fecha_emision": "2025-01-27T10:28:56.782Z",
+  "emisor": {
+    "ruc": "1719956854001",
+    "obligado_contabilidad": false,
+    "contribuyente_especial": "",
+    "nombre_comercial": "Bryan Suárez",
+    "razon_social": "Bryan Suárez",
+    "direccion": "Av. Primera 234 y calle 5ta",
+    "establecimiento": {
+      "punto_emision": "002",
+      "codigo": "001",
+      "direccion": "Av. Primera 234 y calle 5ta"
+    }
+  },
+  "moneda": "USD",
+  "info_adicional": [
+    { "nombre": "Tiempo de entrega", "valor": "5 días" }
+  ],
+  "totales": {
+    "total_sin_impuestos": 4359.54,
+    "impuestos": [
+      {
+        "base_imponible": 4359.54,
+        "valor": 523.14,
+        "codigo": "2",
+        "codigo_porcentaje": "4"
+      }
+    ],
+    "importe_total": 4882.68,
+    "propina": 0.0,
+    "descuento": 0.0
+  },
+  "comprador": {
+    "email": "juan.perez@xyz.com",
+    "identificacion": "0987654321",
+    "tipo_identificacion": "05",
+    "razon_social": "Juan Pérez",
+    "direccion": "Calle única Numero 987",
+    "telefono": "046029400"
+  },
+  "items": [
+    {
+      "cantidad": 622.0,
+      "codigo_principal": "ZNC",
+      "codigo_auxiliar": "050",
+      "precio_unitario": 7.008907,
+      "descuento": 0,
+      "descripcion": "Zanahoria granel  50 Kg.",
+      "precio_total_sin_impuestos": 4359.54,
+      "impuestos": [
+        {
+          "base_imponible": 4359.54,
+          "valor": 523.14,
+          "tarifa": 12.0,
+          "codigo": "2",
+          "codigo_porcentaje": "2"
+        }
+      ],
+      "detalles_adicionales": { "Peso": "5000.0000" },
+      "descuento": 0.0,
+      "unidad_medida": "Kilos"
+    }
+  ],
+  "pagos": [
+    {
+      "medio": "cheque",
+      "total": 2882.68,
+      "propiedades": { "numero": "1234567890", "banco": "Banco Pacífico" },
+      "notas": "Depositado en cuenta corriente"
+    }
+  ]
+}
